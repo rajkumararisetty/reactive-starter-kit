@@ -13,8 +13,11 @@ You can write latest and use latest **JavaScript**.
 ```
 
 ### Setup:
-```clone
-	git clone https://github.com/rajkumararisetty/react-complete-boilerplate.git
+```cmds
+	npm install -g reactive-starter-kit
+    reactive-starter-kit folderName
+    cd folderName
+    npm install
 ```
 
 This starter kit configured with all 3 environments:
